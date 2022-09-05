@@ -7,14 +7,13 @@ itemPerguntasRespostas.forEach((item)=>{
     const itemAtivoAtual = document.querySelector('.ativo')
     
 
-    if (itemAtivoAtual){
+    if (itemAtivoAtual ){
      itemAtivoAtual.classList.remove('ativo')
     }
 
     item.classList.add('ativo')
     });
 });
-
 
 
 
