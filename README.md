@@ -7,18 +7,18 @@ Veja abaixo:
 
 <br>
 
-[<img src="./src/imgs/arcodeon.gif.gif">]()
+[<img src="./src/imgs/arcodeon.gif.gif">](https://zkauansantos.github.io/ArcodeonExercicio/)
 
 <br>
 
 ## APRENDIZADOS
----
+
 Com este projeto pude relembrar o loop forEach e aprender usálo na pratica
 
 <br>
 
 ## TECNOLOGIAS UTILIZADAS 
----
+
 
 
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -30,4 +30,5 @@ Com este projeto pude relembrar o loop forEach e aprender usálo na pratica
 
 
   ## LINK HOSPEDADO NO GITHUB PAGES
-  ---
+  
+  https://zkauansantos.github.io/ArcodeonExercicio/
